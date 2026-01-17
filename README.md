@@ -1,5 +1,7 @@
 # Prediction Market Analysis
 
+> This dataset was collected for and supports the analysis in [The Microstructure of Wealth Transfer in Prediction Markets](https://jbecker.dev/research/prediction-market-microstructure).
+
 A framework for analyzing Kalshi prediction market data. Includes tools for data collection, storage, and running analysis scripts that generate figures and statistics.
 
 ## Setup
